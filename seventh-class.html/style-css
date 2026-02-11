@@ -1,0 +1,7 @@
+.hero-text {
+    font-weight: bold;
+    color: rgb(147, 135, 135);
+    margin-bottom: 48px;
+    font-size: 12px;
+    width: 50%;
+}
